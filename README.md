@@ -1,4 +1,4 @@
-# Customized_ajax-loader
+# Customized ajax-loader
 Ajax загрузчик для https://driventa.com/
 
 Использовано лого самого сайта. Анимация написана на CSS3
