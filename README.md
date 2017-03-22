@@ -1,4 +1,6 @@
 # Customized_ajax-loader
-Ajax загрузчик для сайта https://driventa.com/
+Ajax загрузчик для https://driventa.com/
 
-Whach it on https://grant-inna.github.io/Customized_ajax-loader/.
+Использовано лого самого сайта. Анимация написана на CSS3
+
+Посмотреть результат можно  [здесь](https://grant-inna.github.io/Customized_ajax-loader/)
