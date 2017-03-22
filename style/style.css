@@ -25,7 +25,11 @@ body {
 }
 
 .eyes {
-  top: 28px;
+  top: 21px;
+}
+.eyes img {
+  width: 70px;
+  height: 28px;
 }
 
 .smile,
